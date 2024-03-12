@@ -1,0 +1,16 @@
+[
+    {
+        "codigo" : 123,
+        "nombre" : "juan",
+        "apellido" : "Cardenas"
+    },
+    {
+        "codigo" : 456,
+        "nombre" : "juan",
+        "apellido" : "infeliz"
+    },
+    {
+        "codigo" : 690,
+        "nombre" : "cristian",
+        "apellido" : "pajardo"
+    }]
